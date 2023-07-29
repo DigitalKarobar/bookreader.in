@@ -1,0 +1,21 @@
+[
+    {
+      "category": "Books",
+      "title": "Book Title 1",
+      "imageURL": "images/book1.jpg",
+      "amazonLink": "https://www.amazon.com/example-book-1"
+    },
+    {
+      "category": "Electronics",
+      "title": "Product Title 2",
+      "imageURL": "images/product2.jpg",
+      "amazonLink": "https://www.amazon.com/example-product-2"
+    },
+    {
+      "category": "Toys",
+      "title": "Toy Title 3",
+      "imageURL": "images/toy3.jpg",
+      "amazonLink": "https://www.amazon.com/example-toy-3"
+    }
+  ]
+  
